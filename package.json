@@ -1,0 +1,15 @@
+{
+  "name": "restaurent",
+  "version": "1.0.0",
+  "description": "Assignment for odin project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lahiru Jayasinghe",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.0"
+  }
+}
